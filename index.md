@@ -47,4 +47,4 @@ I am a Ph.D. candidate in Economics at Rice University, Department of Economics.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
